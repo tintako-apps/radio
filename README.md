@@ -2,7 +2,7 @@
 
 # Radio
 
-Internet radio and podcasts for the Mudita Kompakt, designed for E Ink: black and white, no animations, no account.
+Internet radio and podcasts, designed for E Ink: black and white, no animations, no account.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
 
@@ -42,4 +42,4 @@ Internet radio and podcasts for the Mudita Kompakt, designed for E Ink: black an
 The station list comes from the Radio Browser directory. The app also connects directly to speakers on your local network while Audio output is open or a speaker is playing.
 
 ## Install
-Download the latest APK from [Releases](../../releases/latest) and install it on your Kompakt with Mudita Center.
+Download the latest APK from [Releases](../../releases/latest) and install it on your E Ink device.
