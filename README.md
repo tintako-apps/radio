@@ -2,9 +2,9 @@
 
 # Radio
 
-Internet radio and podcasts, designed for E Ink: black and white, no animations, no account.
+Internet radio and podcasts, made for E Ink: black and white, no animations, no account.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tintako)
 
 ## What it can do
 
@@ -25,6 +25,7 @@ Internet radio and podcasts, designed for E Ink: black and white, no animations,
 **Listening**
 - Keeps playing with the phone locked
 - Sleep timer for radio, podcasts or both
+- A play button in the car, on headphones or in a navigation app starts your favorites from the station you heard last
 - Your favorites and own links stay available without internet
 
 **Audio output**
@@ -36,10 +37,15 @@ Internet radio and podcasts, designed for E Ink: black and white, no animations,
 
 ## Permissions
 - Internet: to find stations and play audio
+- Network state: to tell "no internet" from "station directory not responding"
+- Foreground service, media playback and wake lock: to keep audio playing with the screen off
+- Notifications: playback controls
 - Camera: only to scan a QR code, while the scanner is open; no picture is saved
-- Notifications and background playback: to keep audio playing
 
-The station list comes from the Radio Browser directory. The app also connects directly to speakers on your local network while Audio output is open or a speaker is playing.
+## Privacy
+Radio collects no personal data and has no server of its own. The station list comes from the Radio Browser directory; audio comes straight from each station's or podcast's own server. The app also connects to speakers on your local network while Audio output is open or a speaker is playing. Full text: [PRIVACY.md](PRIVACY.md) · Terms: [TERMS.md](TERMS.md) · Open-source licenses: [LICENSES.md](LICENSES.md)
+
+Made by Tintako · app@tintako.com
 
 ## Install
-Download the latest APK from [Releases](../../releases/latest) and install it on your E Ink device.
+Download the latest APK from [Releases](../../releases/latest) and install it on your device.
