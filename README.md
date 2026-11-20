@@ -11,7 +11,7 @@ Internet radio and podcasts, made for E Ink: black and white, no animations, no 
 **Radio**
 - Search stations by name, or browse by country, genre and language
 - Advanced search that combines several criteria
-- Favorites with their own search
+- Favorites with their own search; the station that plays is a black row, and each station shows its logo
 - Add your own stream links, typed in or scanned from a QR code
 
 **Podcasts**
@@ -30,7 +30,7 @@ Internet radio and podcasts, made for E Ink: black and white, no animations, no 
 
 **Audio output**
 - Choose the phone speaker, headphones or Bluetooth
-- Send the radio or a podcast to Sonos and DLNA speakers on your Wi-Fi; the speaker then plays it by itself
+- Send the radio or a podcast to Sonos and DLNA speakers on your Wi-Fi; the speaker then plays it by itself. HLS stations are sent too; if a speaker can't play one, the sound comes back to the phone
 - Optional sleep timer while a speaker plays
 
 **Languages:** Croatian, English, German, French, Spanish, Italian, Portuguese, Dutch, Polish, Czech

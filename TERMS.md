@@ -1,6 +1,6 @@
 # Radio — Terms of Use
 
-Effective 17 November 2026 · Radio 2.3 · These terms are also the end-user license agreement (EULA).
+Effective 17 November 2026 · Radio 2.3.1 · These terms are also the end-user license agreement (EULA).
 
 ## What these terms are
 These terms are an agreement between you and Tintako (Croatia, app@tintako.com), the provider of Radio. By using the app you accept them.
