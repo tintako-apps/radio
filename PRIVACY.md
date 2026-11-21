@@ -1,6 +1,6 @@
 # Radio — Privacy Policy
 
-Effective 21 November 2026 · Radio 3.0
+Effective 21 November 2026 · Radio 4.0
 
 ## The short version
 Radio collects no personal data. There are no accounts, ads, analytics or crash reports, it doesn't use Google services, and it has no server of its own. What you save stays on your phone. To play radio, the app connects directly to the services listed below, which see your IP address like any website.
