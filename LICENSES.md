@@ -1,6 +1,6 @@
 # Radio — Open-source licenses
 
-Radio 2.4 · Radio itself is not open source. It uses the open-source components below; the full license texts are in the app (Settings → About → Open-source licenses).
+Radio 2.5 · Radio itself is not open source. It uses the open-source components below; the full license texts are in the app (Settings → About → Open-source licenses).
 
 | Component | Version | License | Source |
 |---|---|---|---|
