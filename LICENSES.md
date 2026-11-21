@@ -1,6 +1,6 @@
 # Radio — Open-source licenses
 
-Radio 2.5 · Radio itself is not open source. It uses the open-source components below; the full license texts are in the app (Settings → About → Open-source licenses).
+Radio 3.0 · Radio itself is not open source. It uses the open-source components below; the full license texts are in the app (Settings → Open source licenses).
 
 | Component | Version | License | Source |
 |---|---|---|---|
@@ -13,7 +13,6 @@ Radio 2.5 · Radio itself is not open source. It uses the open-source components
 | AndroidX Core KTX | 1.15.0 | Apache 2.0 | https://developer.android.com/jetpack/androidx |
 | AndroidX AppCompat | 1.7.0 | Apache 2.0 | https://developer.android.com/jetpack/androidx |
 | AndroidX Media3 (ExoPlayer, HLS, DASH, Session) | 1.5.1 | Apache 2.0 | https://github.com/androidx/media |
-| AndroidX Room | 2.6.1 | Apache 2.0 | https://developer.android.com/jetpack/androidx |
 | AndroidX CameraX | 1.4.1 | Apache 2.0 | https://developer.android.com/jetpack/androidx |
 | Coil | 2.7.0 | Apache 2.0 | https://github.com/coil-kt/coil |
 | ZXing core | 3.5.3 | Apache 2.0 | https://github.com/zxing/zxing |
