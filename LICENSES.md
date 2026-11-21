@@ -1,6 +1,6 @@
 # Radio — Open-source licenses
 
-Radio 4.0 · Radio itself is not open source. It uses the open-source components below; the full license texts are in the app (Settings → Open source licenses).
+Radio 3.0 · Radio itself is not open source. It uses the open-source components below; the full license texts are in the app (Settings → Open source licenses).
 
 | Component | Version | License | Source |
 |---|---|---|---|
